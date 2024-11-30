@@ -11,4 +11,4 @@ big
 
 zone
 ```
-![NKUST](nkust.png"NKUST")
+![NKUST](nkust.png "NKUST")
