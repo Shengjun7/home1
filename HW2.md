@@ -1,5 +1,5 @@
 ### PERT/CPM 圖
-![PERT圖](image/PERT圖.PNG)
+
 ![PERT](img/PERT.png "PERT/CPM 圖")
 
 
